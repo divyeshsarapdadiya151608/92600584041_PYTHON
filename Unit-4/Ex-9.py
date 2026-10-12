@@ -1,4 +1,4 @@
-
+#Write a program to read and write data into a file using different file modes.
 # Writing data using write mode
 f = open("student.txt", "w")
 f.write("Welcome to Python\n")

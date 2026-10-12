@@ -1,4 +1,4 @@
-
+#10.Write a program to perform file pointer operations using seek and tell methods.
 # Creating a file
 with open("sample.txt", "w") as f:
     f.write("Hello Python Programming")

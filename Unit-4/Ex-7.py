@@ -1,4 +1,4 @@
-
+#Write a program to illustrate method resolution order and magic methods.
 class A:
     def show(self):
         print("Class A")

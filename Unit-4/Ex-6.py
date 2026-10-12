@@ -1,4 +1,4 @@
-
+#Write a program to demonstrate method overriding and polymorphism.
 class Animal:
     def sound(self):
         print("Animal makes a sound")
